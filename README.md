@@ -1,5 +1,5 @@
 # Trabalho Data Science<br/>
-Link do repositório Github: https://github.com/danlamberg/Atividade-Data-Science<br/>
+Link do repositório Github: https://github.com/danlamberg/trabalho-data-science<br/>
 Data Science - Osório Sala 404 - QUARTA-FEIRA - 19:00 - 21:40<br/>
 Equipe: Daniel de Oliveira Lamberg, Diogo Varoni de Moura.<br/>
 Aplicar as visualizações e conceitos discutimos nas últimas aulas.<br/>
